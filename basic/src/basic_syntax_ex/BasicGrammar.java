@@ -15,5 +15,10 @@ public class BasicGrammar {
 		System.out.println("±¹¾î : "+±¹¾î);
 		System.out.println("English : "+English);
 		System.out.println("â¦ùÊ : "+â¦ùÊ);
+		System.out.println("ÃÑÁ¡ : " +total);
+		
+		float f = 3.14e03f;
+		
+		System.out.println("f: " +f);
 	}
 }
