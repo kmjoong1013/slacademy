@@ -4,18 +4,18 @@ public class BasicGrammar {
 	
 	public static void main (String[] args) {
 		
-		int ±¹¾î=80;
+		int êµ­ì–´=80;
 		int English=90;
-		int â¦ùÊ=75;
+		int æ•¸å­¸=75;
 		
 		int total = 0;
 		
-		total = ±¹¾î + English + â¦ùÊ;
+		total = êµ­ì–´ + English + æ•¸å­¸;
 		
-		System.out.println("±¹¾î : "+±¹¾î);
+		System.out.println("êµ­ì–´ : "+êµ­ì–´);
 		System.out.println("English : "+English);
-		System.out.println("â¦ùÊ : "+â¦ùÊ);
-		System.out.println("ÃÑÁ¡ : " +total);
+		System.out.println("æ•¸å­¸ : "+æ•¸å­¸);
+		System.out.println("ì´ì  : " +total);
 		
 		float f = 3.14e03f;
 		
